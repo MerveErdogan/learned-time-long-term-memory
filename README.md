@@ -6,3 +6,7 @@ The main study investigates that whether this memory of a reward-expected time p
 
 There are two groups. One is given a reward in a shorter duration and the longer reward-expected time is overwritten to the short one. and for the other group is vice versa.
 The reason for this, the mechanism may be different by depending on whether the overwritten time includes the previous one or not.
+
+### Codes:
+The code is for the data analysis.
+The code that was written for the Med-Pc generating the experiment in the skinner boxes is not here.
